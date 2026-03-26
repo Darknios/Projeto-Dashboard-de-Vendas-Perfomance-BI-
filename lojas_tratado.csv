@@ -1,0 +1,48 @@
+id_loja,loja,Size,State
+284,San Diego Store,MEDIUM,CA
+283,San Francisco Store,MEDIUM,CA
+282,Angeles Store,MEDIUM,CA
+285,Sacramento Store,SMALL,CA
+320,Denver Store,LARGE,CO
+319,Fort Store,MEDIUM,CO
+321,Boulder Store,SMALL,CO
+322,Springs Store,SMALL,CO
+324,Boston Store,LARGE,MA
+326,Worcester Store,MEDIUM,MA
+327,Quincy Store,MEDIUM,MA
+392,Cambridge Store,SMALL,MA
+704,Salem Store,SMALL,MA
+498,Palmer Store,SMALL,MA
+330,Houston Store,LARGE,TX
+332,Austin Store,MEDIUM,TX
+331,San Antonio Store,SMALL,TX
+655,Plano Store,SMALL,TX
+329,Worth Store,SMALL,TX
+543,Dallas Store,SMALL,TX
+339,Layton Store,LARGE,UT
+336,Park Store,LRGE,UT
+338,Lehi Store,LARGE,UT
+333,Lake Store,LARGE,UT
+335,Ogden Store,LARGE,UT
+978,Logan Store,MEDIUM,UT
+337,George Store,MEDIUM,UT
+334,Provo Store,MEDIUM,UT
+351,Bellingham Store,LARGE,WA
+356,Lynnwood Store,LARGE,WA
+352,Renton Store,MEDIUM,WA
+357,Walla Store,MEDIUM,WA
+349,Redmond Store,MEDIUM,WA
+347,Bellevue Store,MEDIUM,WA
+350,Kirkland Store,MID,WA
+353,Kent Store,MEDIUM,WA
+988,Vancouver Store,MEDIUM,WA
+359,Bremerton Store,MEDIUM,WA
+354,Federal Store,MEDIUM,WA
+1046,Yakima Store,MEDIUM,WA
+348,Olympia Store,MEDIUM,WA
+346,Seattle Store,MEDIUM,WA
+783,Tacoma Store,MEDIUN,WA
+358,Puyallup Store,SMALL,WA
+654,Issaquah Store,SMALL,WA
+773,Everett Store,SMALL,WA
+784,Spokane Store,SMAL,WA
